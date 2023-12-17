@@ -1,3 +1,4 @@
 .idea
 .ipynb_checkpoints
 source/__pycache__
+logs.log
